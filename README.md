@@ -1,3 +1,9 @@
+A SIMPLE CALCULATOR
+
+This is a simple calculator created with react and CSS. The purpose of this project is to showcase react and css skils.
+![CALCULATOR](https://github.com/user-attachments/assets/e354d1a7-0cd3-4395-90ab-b64772010914)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
